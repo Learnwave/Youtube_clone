@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
-import Home from './Pages/Home/Home'
+import Home from './pages/Home/Home'
 import Navbar from './Components/Navbar/Navbar'
 import { Routes ,Route } from 'react-router-dom'
-import Video from './Pages/Video/Video'
+import Video from './pages/Video/Video'
 
 
 const App = () => {
